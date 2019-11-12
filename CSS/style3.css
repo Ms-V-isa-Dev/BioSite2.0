@@ -28,13 +28,27 @@ p {
 	margin-left: 24px;}
 
 body {
+	font-family: 'Oswald', sans-serif;
 	font-size: 18px;
 	background-image: url("StickerCollage.jpg");
 	background-repeat: no repeat;
-	background-attachment: fixed;
-}
+	background-attachment: fixed;}
 
 article {
 	border: 2px solid yellow;
-	height: 250px;
-} 
+	height: 250px;} 
+	
+a:link {
+text-decoration: none;}
+a:visited {
+text-decoration: grey;}
+a:hover {
+text-decoration: underline;}
+a:active { 
+text-decoration: underline;}
+
+a {
+font-size: 12px;
+color: blue;}
+
+
