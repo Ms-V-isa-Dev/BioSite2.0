@@ -1,0 +1,80 @@
+/*
+=================================================
+; Title:  custom-style.css
+; Author: Verlee Washington
+; Date:   10 March 2020
+; Description: Styling for professional portfolio.
+;================================================
+*/
+
+body {
+	font-family: 'Oswald', sans-serif,'Convergence';
+	font-weight: 300;
+	font-size: 16px;
+	background-color: #E8E0BA;
+}
+
+h2 {
+  	color: rgb(25, 88, 236);
+	text-align: center;
+	
+	font-size: 30px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+nav ul {
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 1.5em;
+	width: 98%;
+}
+	
+nav li {
+    display: inline-block;
+	border: 4px solid #541E03;
+	background-color: white;
+	border-radius: 20px;
+}
+	
+nav li a {
+	text-decoration: none;
+	padding: 10px;
+	color: #1d1819;
+	border-radius: 20px;
+}
+
+nav li a:hover, nav li a.current {
+	color: #b5b5b5;
+} 
+
+table {
+	margin-left: 140px;
+	background-color: rgb(255, 255, 255);
+}
+
+th {
+	font-size: 20px;
+	height: 50px;
+	text-align: center;
+	background-color: rgb(25, 88, 236);
+}
+table, th, td {
+	border: 2px solid rgb(25, 88, 236);
+	border-collapse: collapse;
+}
+
+tr:hover {
+	background-color: #b5b5b5;
+}
+
+td {
+	padding: 10px;
+	text-align: left;    
+  }
+
+footer {
+	text-align: center;
+	padding: 10px;
+}
+
