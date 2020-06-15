@@ -69,6 +69,7 @@ table img {
 	height: 500px;
 	margin-top: 1px;
 	margin-bottom: 6px;}	
+
 table {
 	margin-top: 60px;
 	background-color: white;
@@ -85,7 +86,7 @@ th {
 td {
 	height: 520px;}	
 	
-	footer {
+footer {
 	color: #1d1819;
 	height: 50px;
 	text-align: left;
