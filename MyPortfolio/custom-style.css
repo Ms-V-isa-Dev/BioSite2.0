@@ -11,7 +11,6 @@ body {
 	font-family: 'Oswald', sans-serif,'Convergence';
 	font-weight: 300;
 	font-size: 16px;
-	background-color: rgba(241, 214, 155);
 }
 
 h2 {
@@ -61,6 +60,7 @@ th {
 	text-align: center;
 	background-color: rgba(28,173,228, 0.7);
 }
+
 table, th, td {
 	border: 2px solid rgba(28,173,228, 0.7);
 	border-collapse: collapse;
@@ -107,8 +107,8 @@ div.desc {
 }
 
 p {
-	  padding: 6px;
-	  width: 100%;
+	padding: 6px;
+	width: 100%;
 }
 
 card {
